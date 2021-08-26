@@ -1,2 +1,2 @@
-# Projeto-GIT-GITHUB
-Treinando repositorio GIT/GITHUB
+# Projeto - GITGITHUB
+Treinando repositorio GIT/GITHUB.
